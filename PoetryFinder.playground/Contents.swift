@@ -4,6 +4,8 @@ import SwiftUI
 //
 // From endpoint: https://poetrydb.org/random/1
 //
+// Documentation: https://github.com/thundercomb/poetrydb#readme
+//
 let exampleResponse = """
  
  [
