@@ -106,8 +106,11 @@ func fetch() async -> Poem? {
     
 }
 
-// View
+// "View"
 //
+// A text-based presentation of results is provided, since
+// the purpose of this playground is only to illustate how to
+// build a model to match the data returned by an endpoint
 //
 Task {
     // Get a poem
