@@ -2,6 +2,14 @@ import SwiftUI
 
 // Example JSON response
 //
+// This illustrates how to handle a JSON response which
+// provides an array of objects.
+//
+// Recall that arrays are denoted by [ ] brackets.
+//
+// Objects are denoted by { }. Any time an object is provided,
+// you must design a Swift structure to match it.
+//
 // From endpoint: https://poetrydb.org/random/1
 //
 // Documentation: https://github.com/thundercomb/poetrydb#readme
